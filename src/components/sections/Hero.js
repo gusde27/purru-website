@@ -61,12 +61,11 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Wellcome to<span className="text-color-primary"> Purru</span>
+              Welcome to<span className="text-color-primary"> Purru</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-              We believe that everyone deserves to have a good night sleep, So just sit back, relax, because Purru got you.
-                </p>
+              Purru is A native iOS App for people with sleeping trouble caused by racing thoughts that helps them calm their mind by using Interactive guided imagery and relaxing sounds.                </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 
                 <ButtonGroup>
