@@ -120,6 +120,9 @@ const Header = ({
                     <li>
                       <Link to="#teammates" onClick={closeMenu}>Teammates</Link>
                     </li>
+                    <li>
+                      <a target="_blank" href="https://wa.me/6287761472255">Contact</a>
+                    </li>
                   </ul>
                   {
                   //!hideSignin &&
