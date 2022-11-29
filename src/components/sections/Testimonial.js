@@ -71,7 +71,7 @@ const Testimonial = ({
                     </span>
                     <span className="text-color-low"> / </span>
                     <span className="testimonial-item-link">
-                      <a href="#0">Project Manager</a>
+                      <a target="_blank" href="https://www.linkedin.com/in/delvintanjaya/">Project Manager</a>
                     </span>
                   </div>
                 </a>
@@ -91,11 +91,11 @@ const Testimonial = ({
                 <a target="_blank" href="">
                   <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                     <span className="testimonial-item-name text-color-high">
-                      Gusde
+                      Gusde Wirawan
                     </span>
                     <span className="text-color-low"> / </span>
                     <span className="testimonial-item-link">
-                      <a href="#0">Coder</a>
+                      <a target="_blank" href="https://www.linkedin.com/in/gusdewirawan/">Coder</a>
                     </span>
                   </div>
                 </a>
@@ -118,11 +118,11 @@ const Testimonial = ({
                 <a target="_blank" href="">
                   <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                     <span className="testimonial-item-name text-color-high">
-                      Arnold
+                      Arnold Sidiprasetija
                     </span>
                     <span className="text-color-low"> / </span>
                     <span className="testimonial-item-link">
-                      <a href="#0">Coder</a>
+                      <a target="_blank" href="https://www.linkedin.com/in/arnoldprasetija/">Coder</a>
                     </span>
                   </div>
                 </a>
@@ -145,11 +145,11 @@ const Testimonial = ({
                 <a target="_blank" href="">
                   <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                     <span className="testimonial-item-name text-color-high">
-                      Renaka
+                      Renaka Agusta
                     </span>
                     <span className="text-color-low"> / </span>
                     <span className="testimonial-item-link">
-                      <a href="#0">Coder</a>
+                      <a target="_blank" href="https://www.linkedin.com/in/renakaagusta/">Coder</a>
                     </span>
                   </div>
                 </a>
@@ -169,11 +169,11 @@ const Testimonial = ({
                 <a target="_blank" href="">
                   <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                     <span className="testimonial-item-name text-color-high">
-                      Pradipta
+                      Pradipta Manuputty
                     </span>
                     <span className="text-color-low"> / </span>
                     <span className="testimonial-item-link">
-                      <a href="#0">UI / UX</a>
+                      <a target="_blank" href="https://www.linkedin.com/in/pamanuputty/">UI / UX</a>
                     </span>
                   </div>
                 </a>
@@ -196,11 +196,11 @@ const Testimonial = ({
                 <a target="_blank" href="">
                   <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                     <span className="testimonial-item-name text-color-high">
-                      Winnie
+                      Winnie Nettabella
                     </span>
                     <span className="text-color-low"> / </span>
                     <span className="testimonial-item-link">
-                      <a href="#0">UI / UX</a>
+                      <a target="_blank" href="https://www.linkedin.com/in/winnie-nettabella-629805147/">UI / UX</a>
                     </span>
                   </div>
                 </a>
