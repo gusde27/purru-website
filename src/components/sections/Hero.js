@@ -91,8 +91,8 @@ const Hero = ({
             data-reveal-delay="800"
           >
             <iframe
-              width="80%"
-              height="80%"
+              width="100%"
+              height="500"
               src="https://www.youtube.com/embed/SL3VvP6Mpco?autoplay=1&mute=0"
               title="YouTube video player"
               frameborder="0"
