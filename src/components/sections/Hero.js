@@ -2,9 +2,7 @@ import React, { useState } from "react";
 import classNames from "classnames";
 import { SectionProps } from "../../utils/SectionProps";
 import ButtonGroup from "../elements/ButtonGroup";
-import Button from "../elements/Button";
 import Image from "../elements/Image";
-import Modal from "../elements/Modal";
 
 const propTypes = {
   ...SectionProps.types,
@@ -55,7 +53,7 @@ const Hero = ({
     <section {...props} className={outerClasses}>
       <div className="container-sm">
         <div className={innerClasses}>
-          <div className="hero-content">
+          <div className="hero-content" id="menu">
             <h1
               className="mt-0 mb-16 reveal-from-bottom"
               data-reveal-delay="200"
@@ -91,8 +89,8 @@ const Hero = ({
             data-reveal-delay="800"
           >
             <iframe
-              width="600"
-              height="330"
+              width="100%"
+              height="500"
               src="https://www.youtube.com/embed/SL3VvP6Mpco?autoplay=1&mute=0"
               title="YouTube video player"
               frameborder="0"
