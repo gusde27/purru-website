@@ -92,7 +92,7 @@ const Hero = ({
           >
             <iframe
               width="80%"
-              height="40%"
+              height="80%"
               src="https://www.youtube.com/embed/SL3VvP6Mpco?autoplay=1&mute=0"
               title="YouTube video player"
               frameborder="0"
