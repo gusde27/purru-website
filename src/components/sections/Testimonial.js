@@ -51,6 +51,32 @@ const Testimonial = ({
         <div className={innerClasses}>
           <SectionHeader data={sectionHeader} className="center-content" />
           <div className={tilesClasses}>
+          <div
+              className="tiles-item reveal-from-right"
+              data-reveal-delay="200"
+            >
+              <div className="tiles-item-inner">
+                <div className="testimonial-item-content">
+                  <Image
+                    src={require("./../../assets/images/team-0.png")}
+                    alt="Features split 01"
+                    width={528}
+                    height={396}
+                  />
+                </div>
+                <a target="_blank" href="">
+                  <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
+                    <span className="testimonial-item-name text-color-high">
+                      Jaya Pranata
+                    </span>
+                    <span className="text-color-low"> / </span>
+                    <span className="testimonial-item-link">
+                      <a target="_blank" href="https://www.linkedin.com/in/jayapranata89/">Mentor</a>
+                    </span>
+                  </div>
+                </a>
+              </div>
+            </div>
             <div
               className="tiles-item reveal-from-right"
               data-reveal-delay="200"
