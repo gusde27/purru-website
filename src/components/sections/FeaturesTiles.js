@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'interactive guided imagery and relaxing sounds',
-    paragraph: 'interactive guided imagery and relaxing sounds are two existing methods for relaxation therapy. And we are able to translate these methods to our app features, Bedtime stories, Interactive world, and relaxing sounds. We implement guided imagery into bedtime stories, by focusing the story on the sensory and imagery of the user An interactive world is also presented to reinforce guided imagery, and make the experience much more immersive and relaxing sounds are used to support the ambience and help users to be MORE calm'
+    paragraph: 'Interactive guided imagery and relaxing sounds are two existing methods for relaxation therapy. And we are able to translate these methods to our app features, Bedtime stories, Interactive world, and relaxing sounds. We implement guided imagery into bedtime stories, by focusing the story on the sensory and imagery of the user An interactive world is also presented to reinforce guided imagery, and make the experience much more immersive and relaxing sounds are used to support the ambience and help users to be MORE calm'
   };
 
   return (

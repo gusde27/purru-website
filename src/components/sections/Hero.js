@@ -71,7 +71,7 @@ const Hero = ({
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <a target="_blank" href="https://testflight.apple.com/join/Cp79jypr">
+                  <a target="_blank" href="https://apps.apple.com/id/app/purru/id6444001664">
                     <Image
                       src={require("./../../assets/images/appstore-download.png")}
                       alt="Features tile icon 02"
@@ -88,15 +88,16 @@ const Hero = ({
             data-reveal-value="20px"
             data-reveal-delay="800"
           >
-            <iframe
+            <iframe width="100%" height="500" src="https://www.youtube.com/embed/OyLU-bdjpOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            {/* <iframe
               width="100%"
               height="500"
-              src="https://www.youtube.com/embed/SL3VvP6Mpco?autoplay=1&mute=0"
+              src="https://youtu.be/OyLU-bdjpOs?autoplay=1&mute=0"
               title="YouTube video player"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowfullscreen
-            ></iframe>
+            ></iframe> */}
           </div>
         </div>
       </div>
